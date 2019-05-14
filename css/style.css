@@ -11,7 +11,7 @@ body {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.7;
-  color: #828282;
+  color: #ff7f50;
   background: #fff;
 }
 
@@ -162,7 +162,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: inline-block;
   zoom: 1;
   *display: inline;
-  color:#CC99FF;
+  color:#800080;
   /* color: #8BC34A; */
   padding-left: 10px;
   padding-right: 10px;
@@ -191,7 +191,7 @@ form label {
 .display-t .display-tc h1, .display-t .display-tc h2 {
   margin: 0;
   padding: 0;
-  color: white;
+  color: #666600;
 }
 .display-t .display-tc h1 {
   margin-bottom: 20px;
@@ -315,7 +315,7 @@ form label {
   display: inline-block;
   width: 120px;
   height: 120px;
-  background: rgba(255, 255, 255, 0.2);
+  background: #3cb371;
   margin: 0 5px;
   position: relative;
   -webkit-border-radius: 50%;
