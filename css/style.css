@@ -95,7 +95,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 .countdown-wrap, .bg-cover {
-  width: 50%;
+  width: 100%;
   float: left;
   background: #232325;
 }
@@ -162,7 +162,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: inline-block;
   zoom: 1;
   *display: inline;
-  color:#800080;
+  color:white;
   /* color: #8BC34A; */
   padding-left: 10px;
   padding-right: 10px;
@@ -191,7 +191,7 @@ form label {
 .display-t .display-tc h1, .display-t .display-tc h2 {
   margin: 0;
   padding: 0;
-  color: blue;
+  color: white;
 }
 .display-t .display-tc h1 {
   margin-bottom: 20px;
