@@ -171,7 +171,7 @@ h1, h2, h3, h4, h5, h6, figure {
   font-size: 20px;
 }
 .fh5co-social-icons li a:hover, .fh5co-social-icons li a:focus {
-  color: #fff;
+  color: #3cb371;
 }
 
 form label {
@@ -313,8 +313,8 @@ form label {
 .simply-countdown > .simply-section {
   /* coutndown blocks */
   display: inline-block;
-  width: 120px;
-  height: 120px;
+  width: 70px;
+  height: 70px;
   background: #3cb371;
   margin: 0 5px;
   position: relative;
@@ -328,7 +328,7 @@ form label {
   /* countdown block inner div */
   display: table-cell;
   vertical-align: middle;
-  height: 115px;
+  height: 70px;
   width: 120px;
 }
 
@@ -340,7 +340,7 @@ form label {
 }
 
 .simply-countdown > .simply-section .simply-amount {
-  font-size: 40px;
+  font-size: 20px;
   /* amounts */
 }
 
